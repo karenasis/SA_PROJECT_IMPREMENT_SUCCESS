@@ -1,0 +1,15 @@
+// This code for navigate page with button
+// import { View, Button } from 'react-native';
+// import { useNavigation } from '@react-navigation/native';
+
+// export default function MyComp() {
+//     const navigation = useNavigation();
+//     return (
+//         <View>
+//             <Button
+//                 title="Go to Home"
+//                 onPress={() => navigation.navigate('Home')}
+//             />
+//         </View>
+//     );
+// };
